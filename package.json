@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/nFinity7/full-stack-app-#readme",
   "dependencies": {
-    "express": "^4.17.0"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
